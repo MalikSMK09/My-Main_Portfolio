@@ -1,0 +1,134 @@
+========================================
+PORTFOLIO DATA - MALIK
+========================================
+
+--- DATA FROM mlikfjr.my.id ---
+
+BIODATA
+Nama: Muhammad Malik Fajar El-Syarif
+Status: Siswa SMK Informatika Fithrah Insani
+Jurusan: PPLG (Pengembangan Perangkat Lunak dan Game)
+Periode: 2024 - Sekarang
+Lokasi: Indonesia
+Goal: Masuk PSSN / PTN / PTS
+Minat: Web Dev, UI/UX, Cybersecurity, AI Engineer
+
+ABOUT ME
+Saya Malik, siswa SMK Informatika dengan passion di bidang teknologi. Saya suka menciptakan solusi praktis melalui web development dan desain UI yang menarik.
+Fokus utama: memperbaiki skill programming, belajar cybersecurity, dan mempersiapkan diri untuk masuk PSSN atau Universitas (UIN, Itenas, ITB).
+Hobi: belajar matematika, membaca artikel tech, berkontribusi di project open source kecil.
+
+SKILLS
+HTML & CSS: 90%
+Python: 85%
+JavaScript: 78%
+SQL / Database: 75%
+NodeJS: 60%
+JSON: 55%
+TypeScript: 45%
+PHP: 43%
+ReactJS: 30%
+C: 25%
+C++: 21%
+C#: 20%
+
+PROJECTS
+
+1. Website Kuliner Dengan Sistem AI
+   - Problem: UMKM Membutuhkan website dan AI untuk membantu usaha mereka
+   - Solusi: Web app dengan menu management, dashboard, dan Sistem AI untuk mendeskripsikan menu
+   - Tech: ReactJS, MySQL, Tailwind CSS3
+   - Role: Designer & Front-end
+   - GitHub: https://github.com/EpIteesTeams/KulinaAI
+   - Demo: https://kulinaai.biezz.my.id
+
+2. Portfolio Glassmorphism
+   - Problem: Butuh portfolio website modern dengan desain kekinian
+   - Solusi: Single-page portfolio dengan efek glassmorphism, animasi smooth, dan fully responsive
+   - Tech: HTML5, CSS3, Vanilla JS
+   - Role: All
+   - GitHub: https://github.com/Malikkun09/portofolio-glassmorphims-template
+   - Demo: https://portoglass.mlikfjr.my.id/
+
+3. API Platform Downloader
+   - Problem: Butuh API untuk bot WhatsApp agar dapat mendownload media dari berbagai platform
+   - Solusi: API endpoint yang menyediakan URL download untuk berbagai format media dengan sistem API keys
+   - Tech: Node.js, Express, MongoDB, REST API
+   - Role: Backend Developer
+   - GitHub: https://github.com/Malikkun09/api-platform-sosmed-downloader-BETA-
+   - Demo: https://api.mlikfjr.my.id
+
+4. Chat Live - Real-time Chat Platform (DALAM PENGEMBANGAN)
+   - Status: Mungkin beberapa bulan lagi untuk menyelesaikan
+   - Fitur: Real-time messaging, user authentication, rooms, media sharing
+   - Tech: Node.js, Socket.io, MongoDB, React, WebSocket
+   - Role: Full Stack Developer
+   - GitHub: https://github.com/Malikkun09/chatlive-BETA-
+   - Demo: https://chatlive.mlikfjr.my.id
+
+PENGALAMAN
+
+1. BPJS Hackhaton
+   - 1 Tim yang diisi oleh 3 orang, 1 Bulan membuat solusi digital untuk masalah UMKM
+   - Hackathon yang diselenggarakan oleh BPJS Kesehatan dengan fokus solusi digital untuk UMKM
+
+2. Project Kolaborasi Online
+   - Bekerja sama dengan developer dari mahasiswa Universitas lain via GitHub
+   - Berkontribusi di project open source kecil-kecilan, belajar workflow tim dan code review
+
+3. API Development
+   - Membuat RESTful API dengan Node.js dan Express untuk layanan pemendek URL dan sistem autentikasi
+
+YANG SEDANG DIPELAJARI
+- Cybersecurity: Fundamental pentesting, network security, dan ethical hacking
+- Advanced JavaScript: Async/await, promises, modules, dan ES6+ features
+- UI/UX Design: Figma advanced, user research, prototyping, dan design system
+- Fisika: Konsep fisika untuk programming logic & problem solving
+
+PENDIDIKAN
+- TK Teratai (2014-2016)
+- SD Tridaya Tunas Bangsa (2016-2022)
+- MTS Nurul Iman (2022-2024)
+- SMK Informatika Fithrah Insani (2024 - Sekarang)
+  - Kelas 10: Web Programming, Algoritma, Matematika Diskrit, WordPress
+  - Kelas 11: Unity, UI/UX Design
+
+CERTIFICATES
+1. Dicoding — Introduction to Financial Literacy (Jan 2026)
+2. Imphnen x Kolosal — Sertifikat Lomba Hackhaton (Okt - Nov 2025)
+3. Imphnen — Sertifikat Lomba Hackhaton 2 (Des 2025)
+
+KONTAK
+- Email: [email protected]
+- GitHub: github.com/Malikkun09
+- LinkedIn: https://www.linkedin.com/in/muhammad-malik-fajar-el-syarif-05773a392/
+- WhatsApp: +62 889-1983-723
+
+MY DREAMS
+Target utama: Diterima di Politeknik Siber dan Sandi Negara (PSSN)
+atau PTN favorit seperti Polban, ITB, atau PTS seperti Binus atau Itenas
+untuk studi di bidang Teknik Informatika atau Cybersecurity
+
+========================================
+
+--- TAMBAHAN DATA DARI portoppt.mlikfjr.my.id ---
+
+ADDITIONAL TECHNICAL SKILLS
+- Data Structures & Algorithms
+- Web Performance (Lazy load, bundle size, Lighthouse, Core Web Vitals)
+- Git Advanced (Branching, rebase, conflict resolution)
+- Backend Fundamentals (REST API, auth, database basic)
+
+DESIGN & PRODUCT SKILLS
+- UX Writing
+- Design System
+- Accessibility (a11y)
+- Human–Computer Interaction
+
+MINDSET & FUTURE SKILLS
+- AI for Developers (Prompting, AI-assisted coding, workflow automation)
+- Cyber Ethics (Etika AI, data privacy, keamanan user)
+- Problem Solving (Decompose, pattern recognition, abstraction)
+- Technical Communication (Dokumentasi, presentasi)
+
+========================================
